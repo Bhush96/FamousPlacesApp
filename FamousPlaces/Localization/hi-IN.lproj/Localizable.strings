@@ -1,0 +1,67 @@
+/*
+  Localizable.strings
+  SGlobe
+
+  Created by Bhushan Tambe on 27/03/23.
+
+*/
+
+"countryList" = "Country List";
+"imageSanner" = "Image Scanner";
+"shareLocation" = "Share Location";
+"uploadPhoto" = "Upload Photo";
+
+"stateList" = "State List";
+
+"India" = "India";
+"Australia" = "Australia";
+"Japan" = "Japan";
+"Indonesia" = "Indonesia";
+"New Zealand" = "New Zealand";
+"West Indies" = "West Indies";
+
+"Maharashtra" = "Maharashtra";
+"Kerala" = "Kerala";
+"Rajasthan" = "Rajasthan";
+"Kolkata" = "Kolkata";
+
+"New South Wales" = "New South Wales";
+"Victoria" = "Victoria";
+"Queensland" = "Queensland";
+"Western Australia" = "Western Australia";
+
+"Tokyo" = "Tokyo";
+"Osaka" = "Osaka";
+"Sapporo" = "Sapporo";
+"Nagoya" = "Nagoya";
+
+"Bali" = "Bali";
+"East Kalimantan" = "East Kalimantan";
+"West Sumatra" = "West Sumatra";
+"Maluku" = "Maluku";
+
+"Auckland" = "Auckland";
+"Wellington" = "Wellington";
+"Nelson" = "Nelson";
+"Canterbury" = "Canterbury";
+
+"Barbados" = "Barbados";
+"Cuba" = "Cuba";
+"Antigua and Barbuda" = "Antigua and Barbuda";
+"Dominica" = "Dominica";
+
+"doYouWantToLogout" = "Do you want to logout?";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+
+"email" = "email";
+"password" = "password";
+"Login" = "Login";
+"dontHaveAnAccount" = "Don't have an account?";
+"SignUp" = "SignUp";
+
+"firstName" = "firstName";
+"lastName" = "lastName";
+"confirmPassword" = "confirmPassword";
+"signUp" = "Sign Up";
+"alreadyHaveAnAccount" = "Already have an account?";

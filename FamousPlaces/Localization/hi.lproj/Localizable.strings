@@ -1,0 +1,180 @@
+/* 
+  Localizable.strings
+  SGlobe
+
+  Created by Bhushan Tambe on 27/03/23.
+  
+*/
+
+"countryList" = "देश सूची";
+ "imageScanner" = "छवि स्कैनर";
+ "shareLocation" = "स्थान साझा करें";
+ "uploadPhoto" = "फोटो अपलोड करें";
+"add photo" = "तस्वीर जोड़ो";
+"Country Name" = "देश का नाम";
+"Photo List" = "फोटो सूची";
+ "stateList" = "राज्य सूची";
+"No title" = "कोई शीर्षक नहीं";
+
+"AddFirstImage" = "पहली छवि जोड़ें";
+"Images" = "तस्वीरें";
+"Recognise text" = "पाठ पहचानो";
+"Recognised text:" = "मान्यता प्राप्त पाठ";
+"Clear text" = "पाठ हटाना";
+
+//MARK: Current Location View
+"shareLocationWithF" = "आपका स्थान साझा किया जाएगा";
+"Current Location" = "वर्तमान स्थान";
+"tapToShare" = "साझा करने के लिए कृपया वर्तमान स्थान पर टैप करें";
+"Your location:" = "आपका स्थान:";
+"Share" = "शेयर";
+
+ "India" = "भारत";
+ "Australia" = "ऑस्ट्रेलिया";
+ "Japan" = "जापान";
+ "Indonesia" = "इंडोनेशिया";
+ "New Zealand" = "न्यूज़ीलैंड";
+ "West Indies" = "वेस्ट इंडीज";
+
+ "Maharashtra" = "महाराष्ट्र";
+ "Kerala" = "केरल";
+ "Rajasthan" = "राजस्थान";
+ "Kolkata" = "कोलकाता";
+
+ "New South Wales" = "न्यू साउथ वेल्स";
+ "Victoria" = "विक्टोरिया";
+ "Queensland" = "क्वींसलैंड";
+ "Western Australia" = "पश्चिमी ऑस्ट्रेलिया";
+
+ "Tokyo" = "टोक्यो";
+ "Osaka" = "ओसाका";
+ "Sapporo" = "सपोरो";
+ "Nagoya" = "नागोया";
+
+ "Bali" = "बाली";
+ "East Kalimantan" = "पूर्व कालीमंतन";
+ "West Sumatra" = "पश्चिम सुमात्रा";
+ "Maluku" = "मालुकु";
+
+ "Auckland" = "ऑकलैंड";
+ "Wellington" = "वेलिंग्टन";
+ "Nelson" = "नेल्सन";
+ "Canterbury" = "कैंटरबरी";
+
+ "Barbados" = "बारबाडोस";
+ "Cuba" = "क्यूबा";
+ "Antigua and Barbuda" = "अण्टीगुआ और बारबूडा";
+ "Dominica" = "डोमिनिका";
+
+ "doYouWantToLogout" = "क्या आप लॉग आउट करना चाहते हैं?";
+ "Ok" = "ठीक";
+ "Cancel" = "रद्द करना";
+
+ "email" = "ईमेल";
+ "password" = "पासवर्ड";
+ "Login" = "लॉग इन करें";
+ "dontHaveAnAccount" = "खाता नहीं है?";
+ "SignUp" = "साइन अप करें";
+"logOut" = "लॉग आउट";
+
+ "firstName" = "पहला नाम";
+ "lastName" = "उपनाम";
+ "confirmPassword" = "पासवर्ड की पुष्टि कीजिये";
+ "Sign Up" = "साइन अप करें";
+ "Already have an account?" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+
+
+
+//MARK: Famous Places
+
+"Famous Places" = "प्रसिद्ध स्थल";
+"Rajgad Fort" = "राजगढ़ किला";
+"Ajanta and Ellora" = "अजंता और एलोरा";
+"Shivneri Fort" = "शिवनेरी किला";
+
+"Munnar" = "मुन्नार";
+"Kochi" = "कोच्चि";
+"Thiruvananthapuram" = "तिरुवनंतपुरम";
+
+"DAUSA" = "दौसा";
+"DHOLPUR" = "धौलपुर";
+"HANUMANGARH" = "हनुमानगढ़";
+
+"Howrah Bridge" = "हावड़ा ब्रिज";
+"Victoria Memorial" = "विक्टोरिया मेमोरियल";
+"Babu Ghat" = "बाबू घाट";
+
+"Byron Bay" = "बायरन बे";
+"Sydney" = "सिडनी";
+"Hunter Valley" = "हंटर वैली";
+
+"Bendigo" = "बेंडिगो";
+"Ballarat" = "बैलेरैट";
+"Healesville" = "हील्सविल";
+
+"Gold Coast"  = "गोल्ड कोस्ट";
+"Bundaberg" = "बुंडाबर्ग";
+"Townsville" = "टाउन्सविले";
+
+"Perth" = "पर्थ";
+"The Kimberley" = "किम्बरली";
+"Ningaloo Reef" = "निंगलू रीफ";
+
+"Sensoji Temple" = "सेंसोजी मंदिर";
+"Meiji Jingu" = "मीजी जिंगु";
+"Hamarikyu Gardens" = "हमारिक्यू गार्डन";
+
+"Tempozan Marketplace" = "टेम्पोज़न बाज़ार";
+"Kids Plaza Osaka" = "किड्स प्लाजा ओसाका";
+"Universal Studios Japan" = "यूनिवर्सल स्टूडियो जापान";
+
+"Susukino" = "सुसुकिनो";
+"Moerenuma Park" = "मोरेनुमा पार्क";
+"Odori Park" = "ओडोरी पार्क";
+
+"Nagoya Station" = "नागोया स्टेशन";
+"Sakae / Fushimi" = "साके / फुशिमी";
+
+"Mount Batur" = "माउंट बटुर";
+"Bali swing" = "बाली झूला";
+
+"BIG Mall" = "बिग मॉल";
+"Mahakam River" = "महकम नदी";
+
+"China Town" = "चाइना टाउन";
+"Siti Nurbaya Bridge" = "सिटी नूरबया ब्रिज";
+
+"Pulau Seram" = "पुलाऊ सिरम";
+"Pulau Kei" = "पुलाऊ केई";
+
+"The Skytower" = "द स्काईटॉवर";
+"MOTAT" = "मोटेट";
+
+"Bucket Fountain" = "बाल्टी का फव्वारा";
+"Weta Workshop" = "वेटा कार्यशाला";
+
+"Rabbit Island" = "खरगोश द्वीप";
+"Queen's garden" = "रानी का बगीचा";
+
+"Christchurch" = "क्राइस्टचर्च";
+"Akaroa" = "अकरोआ";
+
+"Harrison's Cave" = "हैरिसन की गुफा";
+"Shirley Heights" = "शर्ली हाइट्स";
+
+"Shirley Heights" = "शर्ली हाइट्स";
+"Bottom Bay" = "निचला खाड़ी";
+
+"Shirley Heights" = "शर्ली हाइट्स";
+"Devil's Bridge" = "शैतान का पुल";
+
+"Boiling Lake" = "उबलती हुई झील";
+"Titou Gorge" = "टिटौ कण्ठ";
+
+
+//MARk: Landing Screen
+"Welcome" = "स्वागत!";
+"allInOne" = "अब सभी एक ऐप में";
+"View Places" = "जगह देखें";
+"Share Photos" = "फोटो शेयर करें";
+"Photo Scanner" = "फोटो स्कैनर!";

@@ -1,0 +1,183 @@
+/* 
+  Localizable.strings
+  SGlobe
+
+  Created by Bhushan Tambe on 27/03/23.
+  
+*/
+"countryList" = "Country List";
+"imageScanner" = "Image Scanner";
+"shareLocation" = "Share Location";
+"uploadPhoto" = "Upload Photo";
+
+//MARK: Upload Photo View
+"add photo" = "Add Photo";
+"Country Name" = "Country Name";
+"Photo List" = "Photo List";
+
+"stateList" = "State List";
+
+//MARK: Image Scanner View
+"AddFirstImage" = "Add first image";
+"Images" = "Images";
+"Recognise text" = "Recognise text";
+"Recognised text:" = "Recognised text:";
+"Clear text" = "Clear text";
+"No title" = "No title";
+
+//MARK: Current Location View
+"shareLocationWithF" = "Your location will be shared:";
+"Current Location" = "Current Location";
+"tapToShare" = "Please tap current location to share";
+"Your location:" = "Your location:";
+"Share" = "Share";
+
+"India" = "India";
+"Australia" = "Australia";
+"Japan" = "Japan";
+"Indonesia" = "Indonesia";
+"New Zealand" = "New Zealand";
+"West Indies" = "West Indies";
+
+"Maharashtra" = "Maharashtra";
+"Kerala" = "Kerala";
+"Rajasthan" = "Rajasthan";
+"Kolkata" = "Kolkata";
+
+"New South Wales" = "New South Wales";
+"Victoria" = "Victoria";
+"Queensland" = "Queensland";
+"Western Australia" = "Western Australia";
+
+"Tokyo" = "Tokyo";
+"Osaka" = "Osaka";
+"Sapporo" = "Sapporo";
+"Nagoya" = "Nagoya";
+
+"Bali" = "Bali";
+"East Kalimantan" = "East Kalimantan";
+"West Sumatra" = "West Sumatra";
+"Maluku" = "Maluku";
+
+"Auckland" = "Auckland";
+"Wellington" = "Wellington";
+"Nelson" = "Nelson";
+"Canterbury" = "Canterbury";
+
+"Barbados" = "Barbados";
+"Cuba" = "Cuba";
+"Antigua and Barbuda" = "Antigua and Barbuda";
+"Dominica" = "Dominica";
+
+"doYouWantToLogout" = "Do you want to logout?";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+
+"email" = "email";
+"password" = "password";
+"Login" = "Login";
+"dontHaveAnAccount" = "Don't have an account?";
+"SignUp" = "SignUp";
+"logOut" = "Logout";
+
+"firstName" = "first Name";
+"lastName" = "last Name";
+"confirmPassword" = "confirm Password";
+"Sign Up" = "Sign Up";
+"Already have an account?" = "Already have an account?";
+
+
+
+//MARK: Famous Places
+
+"Famous Places" = "Famous Places";
+"Rajgad Fort" = "Rajgad Fort";
+"Ajanta and Ellora" = "Ajanta and Ellora";
+"Shivneri Fort" = "Shivneri Fort";
+
+"Munnar" = "Munnar";
+"Kochi" = "Kochi";
+"Thiruvananthapuram" = "Thiruvananthapuram";
+
+"DAUSA" = "DAUSA";
+"DHOLPUR" = "DHOLPUR";
+"HANUMANGARH" = "HANUMANGARH";
+
+"Howrah Bridge" = "Howrah Bridge";
+"Victoria Memorial" = "Victoria Memorial";
+"Babu Ghat" = "Babu Ghat";
+
+"Byron Bay" = "Byron Bay";
+"Sydney" = "Sydney";
+"Hunter Valley" = "Hunter Valley";
+
+"Bendigo" = "Bendigo";
+"Ballarat" = "Ballarat";
+"Healesville" = "Healesville";
+
+"Gold Coast"  = "Gold Coast";
+"Bundaberg" = "Bundaberg";
+"Townsville" = "Townsville";
+
+"Perth" = "Perth";
+"The Kimberley" = "The Kimberley";
+"Ningaloo Reef" = "Ningaloo Reef";
+
+"Sensoji Temple" = "Sensoji Temple";
+"Meiji Jingu" = "Meiji Jingu";
+"Hamarikyu Gardens" = "Hamarikyu Gardens";
+
+"Tempozan Marketplace" = "Tempozan Marketplace";
+"Kids Plaza Osaka" = "Kids Plaza Osaka";
+"Universal Studios Japan" = "Universal Studios Japan";
+
+"Susukino" = "Susukino";
+"Moerenuma Park" = "Moerenuma Park";
+"Odori Park" = "Odori Park";
+
+"Nagoya Station" = "Nagoya Station";
+"Sakae / Fushimi" = "Sakae / Fushimi";
+
+"Mount Batur" = "Mount Batur";
+"Bali swing" = "Bali swing";
+
+"BIG Mall" = "BIG Mall";
+"Mahakam River" = "Mahakam River";
+
+"China Town" = "China Town";
+"Siti Nurbaya Bridge" = "Siti Nurbaya Bridge";
+
+"Pulau Seram" = "Pulau Seram";
+"Pulau Kei" = "Pulau Kei";
+
+"The Skytower" = "The Skytower";
+"MOTAT" = "MOTAT";
+
+"Bucket Fountain" = "Bucket Fountain";
+"Weta Workshop" = "Weta Workshop";
+
+"Rabbit Island" = "Rabbit Island";
+"Queen's garden" = "Queen's garden";
+
+"Christchurch" = "Christchurch";
+"Akaroa" = "Akaroa";
+
+"Harrison's Cave" = "Harrison's Cave";
+"Shirley Heights" = "Shirley Heights";
+
+"Shirley Heights" = "Shirley Heights";
+"Bottom Bay" = "Bottom Bay";
+
+"Shirley Heights" = "Shirley Heights";
+"Devil's Bridge" = "Devil's Bridge";
+
+"Boiling Lake" = "Boiling Lake";
+"Titou Gorge" = "Titou Gorge";
+
+//MARk: Landing Screen
+"Welcome" = "WELCOME";
+"allInOne" = "Now all in one App";
+"View Places" = "View Places";
+"Share Photos" = "Share Photos";
+"Photo Scanner" = "Photo Scanner!";
+
